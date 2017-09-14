@@ -10,13 +10,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-
 import java.text.DecimalFormat;
 import java.util.List;
-
-/**
- * Created by Marko on 5.9.2017..
- */
 
 public class ListAdapter extends ArrayAdapter<Earthquake> {
 
