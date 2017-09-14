@@ -3,10 +3,6 @@ package com.example.android.quakeapp;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Created by Marko on 5.9.2017..
- */
-
 public class Earthquake {
     private Double quakeMag;
     private String quakeLocation;
